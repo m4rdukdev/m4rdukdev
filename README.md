@@ -57,12 +57,13 @@ status: construindo meus primeiros projetos open source
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rdukdev&bg_color=0D1117&color=00FFFF&line=00FF41&point=00FFFF&area=true&area_color=00FF41&hide_border=true" />
 </p>
 -->
-### `> ./snake.exe`
 <!-- Snake: aguardando desbloqueio do Actions (ticket #4911055)
+### `> ./snake.exe`
 <p align="center">
   <img src="https://raw.githubusercontent.com/m4rdukdev/m4rdukdev/output/github-snake-dark.svg" />
 </p>
 -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00FF41&height=100&section=footer" />
 </p>
