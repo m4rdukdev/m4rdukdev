@@ -1,4 +1,4 @@
-<!-- Troque SEU_USUARIO pelo seu usuário do GitHub em todo o arquivo -->
+<!-- Troque @m4rdukdev pelo seu usuário do GitHub em todo o arquivo -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00FFFF&height=180&section=header&text=M4rduk&fontSize=60&fontColor=0D1117&fontAlignY=35&desc=infra%20%E2%80%A2%20dev%20%E2%80%A2%20hacking%20%E2%80%A2%20geek%20culture&descAlignY=58&descSize=16" />
@@ -49,18 +49,18 @@ status: construindo meus primeiros projetos open source
 ### `> ./stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=C9D1D9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=@m4rdukdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=C9D1D9&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@m4rdukdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00FFFF&line=00FF41&point=00FFFF&area=true&area_color=00FF41&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=@m4rdukdev&bg_color=0D1117&color=00FFFF&line=00FF41&point=00FFFF&area=true&area_color=00FF41&hide_border=true" />
 </p>
 
 ### `> ./snake.exe`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/@m4rdukdev/@m4rdukdev/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
