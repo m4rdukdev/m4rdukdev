@@ -52,7 +52,7 @@ status: construindo meus primeiros projetos open source
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rdukdev&bg_color=0D1117&color=00FFFF&line=00FF41&point=00FFFF&area=true&area_color=00FF41&hide_border=true" />
+  <img src="https://github-readme-activity-graph-rho-eight.vercel.app/graph?username=m4rdukdev&bg_color=0D1117&color=00FFFF&line=00FF41&point=00FFFF&area=true&area_color=00FF41&hide_border=true" />
 </p>
 
 
