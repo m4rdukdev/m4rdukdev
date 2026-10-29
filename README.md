@@ -1,5 +1,3 @@
-<!-- Troque m4rdukdev pelo seu usuário do GitHub em todo o arquivo -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00FFFF&height=180&section=header&text=M4rduk&fontSize=60&fontColor=0D1117&fontAlignY=35&desc=infra%20%E2%80%A2%20dev%20%E2%80%A2%20hacking%20%E2%80%A2%20geek%20culture&descAlignY=58&descSize=16" />
 </p>
@@ -49,8 +47,8 @@ status: construindo meus primeiros projetos open source
 ### `> ./stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m4rdukdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=C9D1D9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rdukdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-jade-seven-64.vercel.app/api?username=m4rdukdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&text_color=C9D1D9&count_private=true" />
+  <img height="165" src="https://github-readme-stats-jade-seven-64.vercel.app/api/top-langs/?username=m4rdukdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
 </p>
 
 <p align="center">
